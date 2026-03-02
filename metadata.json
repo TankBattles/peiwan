@@ -1,0 +1,7 @@
+{
+  "name": "三角洲行动 - 战术陪玩",
+  "description": "专业的三角洲行动游戏陪玩平台，支持视频展示与语音试听。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
